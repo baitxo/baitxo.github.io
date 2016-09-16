@@ -1,2 +1,1 @@
-# baitxo.github.io
-My personal page
+# My Personal Page
